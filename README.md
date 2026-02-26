@@ -21,3 +21,5 @@ The link to the original project is [here](https://github.com/imputnet/cobalt)
 ## Architecture
 
 ## Guide and Build logs
+
+follow the blog
